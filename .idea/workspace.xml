@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="560381c9-ee19-4f16-9cc9-bbeb7f9d25a0" name="Changes" comment="" />
+    <list default="true" id="560381c9-ee19-4f16-9cc9-bbeb7f9d25a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../docker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../docker" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Raushan1156"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Raushan1156/docker.git",
+    "accountId": "62124d37-f188-42dc-b576-3a29ad606876"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
